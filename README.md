@@ -17,3 +17,4 @@ All the properties are in the `config/param.js` file
 
 ## Start the Application
 * `node index.js`
+* `host:port/index`
